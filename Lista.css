@@ -1,0 +1,25 @@
+/* Lista.css */
+.list-container {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .list-item {
+    margin: 10px 0;
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .delete-button {
+    background-color: #ff5733;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
